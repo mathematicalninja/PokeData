@@ -1,0 +1,21 @@
+1) Data Scrape off of Serebii
+2) Split by generation
+3) What are the "average" stats for each type?
+4) Damage calculator implimentation
+5) for each pokemon, for each move, what is the "average" damage it would do?
+6) visual interface
+7) Damage as a percentage
+8) number of hits
+9) who goes first
+10) what is the "average" number of hits each pokemon will do/take
+11) catch chance calulator
+
+EXTRAS:
+	get	trainer data
+	get Wold pokemon data 
+		& encounter rates 
+		& route lengths
+	which pokemon are "best"
+	at catch, which pokemon will be useful for the longest?
+
+Graphs!
